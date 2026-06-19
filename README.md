@@ -2,7 +2,6 @@
 
 This repository contains the processing notebooks, dataset tracking variables, and evaluation logs used to build a robust, multi-lingual Text-to-SQL system with integrated security filters. 
 
----
 
 ## Directory Overview
 
@@ -11,6 +10,7 @@ This repository contains the processing notebooks, dataset tracking variables, a
 ├── notebooks/       # Implementation and data engineering scripts
 ├── data/            # Generated training, validation, and security datasets
 └── logs/            # Zero-shot model testing metrics
+```
 
 #### Data Folder Catalog
 1. multilingual_sql_security_dataset (.csv / .json)
