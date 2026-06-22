@@ -1,4 +1,4 @@
-> This repository contains the processing notebooks, dataset tracking variables, and evaluation logs used to build a robust, multi-lingual Text-to-SQL system with integrated security filters. 
+> This repository contains the processing notebooks, dataset tracking variables, and evaluation logs used to build a robust, multi-lingual Text-to-SQL system : FAP (filtering adversarial payloads)
 
 
 ## Directory Overview
